@@ -26,3 +26,9 @@
     "not op_mini all"
   ]
 }
+  "production": [
+      ">0.45%",
+      "not dead",
+      "not op_mini all"
+    ],
+   
